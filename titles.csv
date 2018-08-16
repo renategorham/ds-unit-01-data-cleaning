@@ -1,0 +1,940 @@
+,title
+0,Psychological Medicine
+1,Biomacromolecules
+2,J Med Chem
+3,J Org Chem
+4,Journal of Medicinal Chemistry
+5,Journal of Proteome Research
+6,Mol Pharm
+7,ACS Chemical Biology
+8,Journal of Chemical Information and Modeling
+9,Biochemistry
+10,Gastroenterology
+11,Journal of Biological Chemistry
+12,Journal of Immunology
+13,ACS Chemical Neuroscience
+14,ACS NANO
+15,American Chemical Society
+16,Analytical Chemistry
+17,Bioconjugate Chemistry
+18,Journal of the American Chemical Society
+19,ACS Nano
+20,CHEST
+21,Journal of Neurophysiology
+22,Journal of Physiology
+23,The Journal of Neurophysiology
+24,American Journal of Psychiatry
+25,Americal Journal of Psychiatry
+26,Behavioral Neuroscience
+27,Emotion
+28,Health Psychology
+29,Journal of Abnormal Psychology
+30,Journal of Consulting and Clinical Psychology
+31,Journal of Experimental Psychology:  Animal Behaviour Process
+32,Journal of Experimental Psychology: Human Perception and Performance
+33,Journal of Family Psychology
+34,Psychological Assessment
+35,Psychological Review
+36,"Psychological Trauma: Theory research, practice and policy"
+37,American Journal of Public Health
+38,J Biol Chem.
+39,JOURNAL OF BIOLOGICAL CHEMISTRY
+40,The Journal of Biological Chemistry
+41,American Journal of Pathology
+42,Antimicrobial Agents and Chemotherapy
+43,Antimicrob Agents Chemother
+44,Clinical and Vaccine Immunology
+45,Eukaryotic Cell
+46,Infection and Immunity
+47,Journal of Bacteriology
+48,Journal of Virology
+49,Mbio
+50,Molecular and Cellular Biology
+51,Journal of Clinical Microbiology
+52,American Society for Nutrition
+53,Blood
+54,Blood Journal 2012
+55,THE AMERICAN JOURNAL OF HUMAN GENETICS
+56,Jounral of Clinical Microbiology
+57,Speech Language and Hearing Research
+58,J Biol Chem
+59,Biologicial Chemistry
+60,J Biol Chemistry
+61,Journal of biological chemistry
+62,Mol Cell Proteomics
+63,Molecular and Cellular Proteomics
+64,The journal of Biological Chemistry
+65,Jnl Biological Chemistry
+66,Journal Biological Chemistry
+67,Journal of Biol Chem
+68,Journal of Vision
+69,Current Topics in Medicinal Chemistry
+70,Current Analytical Chemistry
+71,"Evidence, Ethos and Experiment: The Anthropology and History of Medical Research in Africa."
+72,Biochem Journal
+73,Molecular Cell
+74,Arthritis Research & Therapy
+75,J Neuroinflammation
+76,BMC  Public Health
+77,BMC Biology
+78,BMC Genetics
+79,BMC Genome Biology
+80,BMC Genomics
+81,BMC Health Services Research
+82,BMC Medical Genetics
+83,BMC Medicine
+84,BMC Microbiology
+85,BMC Molecular Biology
+86,BMC Neurology
+87,BMC Neuroscience
+88,BMC Psychiatry
+89,BMC Public Health
+90,BMC Research Notes
+91,BMC Veterinary Research
+92,BMS Genomics
+93,Clinical Proteomics
+94,EvoDevo
+95,Genome Biology
+96,Genome Medicine
+97,International Journal for Equity in Health
+98,International Journal of Behavioral Nutrition and Physical Activity
+99,International Journal of Behavioural Nutrition and Physical Activity
+100,International Journal of Health Geographics
+101,Journal of Cheminformatics
+102,Journal of Neuroinflammation
+103,Lipids in Health and Disease
+104,Malaria Journal
+105,Molecular Brain
+106,Molecular Pain
+107,Nutrition Journal
+108,Orphanet Journal of Rare Diseases
+109,Parasites and Vectors
+110,Public Health
+111,Respiratory Research
+112,Virology Journal
+113,BMC Genomics.
+114,BMC Infectious Diseases
+115,Hum Resour Health
+116,Implement Sci.
+117,Parasit Vectors.
+118,RESPIRATORY RESEARCH
+119,AIDS Research and Therapy
+120,BMC Pediatrics
+121,Human Resources for Health
+122,Trials
+123,BMC Infectious diseases
+124,Veterinary Research
+125,Biophysical Journal
+126,European Journal of Endocrinology
+127,Journal of Endocrinology
+128,Journal of Molecular Endocrinology
+129,Journal of molecular Endocrinology
+130,"Reproduction(Cambridge, England)"
+131,Cellular Microbiology
+132,Arthritis Research and Therapy
+133,BMC Medical Ethics
+134,BMC Medical Imaging
+135,Cost Effectiveness and Resource Allocation
+136,BJOPHTHALMOL
+137,BMJ
+138,BMJ Open
+139,British Journal of Ophthalmology
+140,British Journal of Opthalmology
+141,British Medical Journal
+142,Frontline Gastroenterology
+143,Journal of Clinical Pathology
+144,Journal of Epidemiology & Community Health
+145,Journal of Medical Ethics
+146,Journal of Medical Genetics
+147,"Journal of Neurology, Neurosurgery & Psychiatry"
+148,"Journal of Neurology, Neurosurgery and Psychiatry"
+149,Sexually Transmitted Infections
+150,Gut
+151,Archives of Disease in Childhood
+152,BMJ OPEN
+153,BMJ QUALITY AND SAFETY
+154,Heart
+155,Medical Humanities
+156,Thorax
+157,Sex Transm Infect.
+158,BMJ open
+159,Journal of Epidemiology and Community Health
+160,Postgraduate Medical Journal
+161,Veterinary Record
+162,THORAX an international journal for Respiratory Medicine
+163,European Journal of Health Law
+164,Journal of Neuroscience
+165,Heart and Circulatory Physiology
+166,Antimicobial Agents and Chemotherapy
+167,J Clin Microbiol
+168,JOURNAL OF BACTERIOLOGY
+169,mBio
+170,International Psychogeriatrics
+171,Parasitology
+172,Medical History
+173,Ageing & Society
+174,British Journal for the History of Science
+175,British Journal of the History of Science
+176,Epidemiology and Infection
+177,Expert Reviews in Molecular Medicine
+178,International Journal of Law in Context
+179,Jnl of the International Neuropsychological Society
+180,Public Health Nutrition
+181,Pyschological Medicine
+182,Urban History
+183,Visual Neuroscience
+184,American Journal of Human Genetics
+185,Stem Cell Reports
+186,Journal of Clinical Endocrinology and Metabolism
+187,Journal of Virol
+188,Journal of the International AIDS Society
+189,Genes & Development
+190,Learning and Memory
+191,Genome Research
+192,RNA
+193,Journal of Cell Science
+194,Biology Open
+195,Development
+196,Developmental Cell
+197,Disease Models and Mechanisms
+198,J Cell Sci.
+199,International Reviews of Immunology
+200,Journal of the International African Institute
+201,Cell Reports
+202,American Journal for Clinical Nutrition
+203,American Journal of Clinical Nutrition
+204,Cell Press - Cell Reports
+205,"G3: Genes, Genomes, Genetics"
+206,GENETICS
+207,Genetics
+208,J Immunol
+209,Proceedings of the National Academy of Sciences
+210,The Journal of Immunology
+211,Journal of Nutrition
+212,PNAS
+213,Neuroimage
+214,Academy of Nutrition and Dietetics
+215,American Journal of Geriatric Psychiatry
+216,American Journal of Preventive Medicine
+217,Analytical Biochemistry
+218,Animal Behaviour
+219,Applied Energy
+220,Asian Journal of Psychiatry
+221,Atherosclerosis
+222,Biochim Biophys Acta
+223,Behavior Research and Therapy
+224,Behaviour Research and Therapy
+225,Behavioural Brain Research
+226,Biochemical and Biophysical Research Communications
+227,Biochemical Pharmacology
+228,Biochimica et Biophysica Acta - Molecular Basis of Disease
+229,Biochimie
+230,Biological Psychiatry
+231,BIOLOGICAL PSYCHOLOGY
+232,Biomaterials
+233,Biosystems
+234,Bone
+235,Brain and Cognition
+236,Brain and Language
+237,Brain Research
+238,Cancer Letters
+239,Cell
+240,Cell Calcium
+241,Cell Host and Microbe
+242,Cell Journal
+243,Cell Metabolism
+244,Cell Stem Cell
+245,Cellular Signalling
+246,Chemsitry & Biology
+247,Clinical Neurology and Neurosurgery
+248,Clinical Radiology
+249,Cognition
+250,Cognitive Development
+251,Consciousness & Cognition
+252,Consciousness and Cognition
+253,Cortex
+254,Current Biology
+255,CURRENT BIOLOGY
+256,Current Opinion in Neurobiology
+257,Current Opinion Microbiology
+258,Current Opinions in Neurobiology
+259,DEVELOPMENT CELL
+260,Developmental Biology
+261,Developmental Cognitive Neuroscience
+262,Diagnostic Microbiology and Infectious Disease
+263,Brain Behav Immun
+264,Behav Res Ther
+265,J Pediatr
+266,Pathogens Dis
+267,Health Place
+268,Drug Alcohol Depend
+269,Lancet
+270,Endeavour
+271,Epilepsy Research
+272,European Journal of cell Biology
+273,European Journal of Medical Genetics
+274,European Neuropsychopharmacology
+275,Experimental Cell Research
+276,Experimental Eye Research
+277,Experimental Hematology
+278,Experimental Neurology
+279,Experimental Parasitology
+280,FEBS Letters
+281,Febs Letters
+282,FEBS Open Bio
+283,Fertility and Sterility
+284,Free Radical and Biology Medicine
+285,Fungal Biology
+286,Fungal Ecology
+287,Gene
+288,GENE
+289,Gene Therapy
+290,Health & Place
+291,Health and Place
+292,Immnunobiology
+293,Immunity
+294,Immunology Letters
+295,Infection Genetics and Evolution
+296,Int Journal for Parasitology
+297,International Health
+298,International Journal for Parasitology
+299,International journal of applied earth observation and geoinformation
+300,International Journal of Biochemistry & Cell Biology
+301,International Journal of Cardiology
+302,International Journal of Parasitology
+303,J Mol Biol
+304,J Steroid Biochem Mol Biol
+305,Journal of Affective Disorders
+306,JOURNAL OF ALLERGY & CLINICAL IMMUNOLOGY
+307,Journal of Allergy and Clinical Immunology
+308,Journal of allergy and clinical immunology
+309,Journal of Anthropological Archaeology
+310,Journal of Archaeological Science
+311,Journal of Behavior Therapy and Experimental Psychiatry
+312,Journal of Behaviour therapy and Experimental Psychiatry
+313,Journal of Clinical Epidemiology
+314,Journal of Clinical Virology
+315,Journal of cycstic fibrosis
+316,Journal of Hepatology
+317,Journal of Historical Geography
+318,Journal of Hospital Infections
+319,Journal of Infection
+320,Journal of Mechanisms of Ageing and Development
+321,Journal of Molecular Biology
+322,Journal of Neuroscience Methods
+323,Journal of Nutrition Education and Behaviour
+324,Journal of paediatric Urology
+325,Journal of Proteomics
+326,Journal of Structural Biology
+327,Journal of the American Academy of Child and Adolescent Psychiatry
+328,Journal of the American College of Cardiology
+329,Journal of the Neurological Sciences
+330,Journal of Transport Geography
+331,Journal of Virological Methods
+332,Lancet Global Health
+333,Learning and Individual Differences
+334,Matrix Biology
+335,Maturitas
+336,Mechanisms of Ageing and Development
+337,Microbes and Infection
+338,Microbes Infect
+339,Molecular and Biochemical Parasitology
+340,Molecluar & Cellular Endocrinology
+341,Molecular & Biochemical Parasitology
+342,Molecular and Cellular Endocrinology
+343,MOLECULAR BIOLOGY
+344,Molecular Genetics and Metabolism
+345,Molecular Immunology
+346,Molecular Phylogenetics and Evolution
+347,N Biotechnol.
+348,Neurobiology of Aging
+349,Neurobiology of Disease
+350,Neurobiology of Learning and Memory
+351,Neurochemistry International
+352,NeuroImage
+353,Neuroimage: Clinical
+354,Neuroimage: clinical
+355,NeuroImage: Clinical
+356,Neurolmage
+357,Neuromuscular Disorders
+358,Neuron
+359,Neuropharmacology
+360,Neurophysiologia
+361,Neuropsychologia
+362,Neuroscience
+363,Neuroscience and Behavioural Reviews
+364,Neuroscience Letters
+365,Nitric Oxide
+366,Ophthalmology
+367,Osteoarthritis and Cartilage
+368,Pain
+369,Parkinsonism and Related Disorders
+370,Parsitology
+371,Personality and Individual Differences
+372,Preventive Medicine
+373,Protein Expr Purif.
+374,Protist
+375,Pulmonary Pharmacology & Therapeutics
+376,RESEARCH IN VETERINARY SCIENCE
+377,Schizophrenia Research
+378,Seizure
+379,Seminars in Oncology
+380,Social Science & Medicine
+381,Social Science and Medicine
+382,Stem Cell Research
+383,Structure
+384,Stud Hist Philos Biol Biomed Sci
+385,Tetrahedron Letters
+386,The Americal Journal of Human Genetics
+387,The American Journal of Human Genetics
+388,The International Journal of Biochemistry & Cell Biology
+389,The Journal of Steroid Biochemistry & Molecular Biology
+390,The Lancet
+391,The Lancet Neurology
+392,The Vet. Journal
+393,Ticks and Tick-borne Diseases
+394,Trans R Soc Trop Med Hyg
+395,Trends in Cognitive Science
+396,Trends in Genetics
+397,Trends in Microbiology
+398,Trends in Molecular Medicine
+399,Trends in Neuroscience
+400,Trends in Neurosciences
+401,Trends in Parasitology
+402,Tuberculosis
+403,Vaccine
+404,Vascular Pharmacology
+405,Veterinary Microbiology
+406,Veterinary Parasitology
+407,Virology
+408,Virus Research
+409,Vision Research
+410,Lancet Infect Dis
+411,Math Biosci
+412,STRUCTURE
+413,Curr Biol.
+414,Cell Host & Microbe
+415,Endocrinology
+416,Molecular Endocrinology
+417,European Respiratory Journal
+418,FASEB Journal
+419,Journal of Leukocyte Biology
+420,The FASEB Journal
+421,Haematologica
+422,Haematologica/The Haematology Journal
+423,Frontiers in Auditory Cognitive Neuroscience
+424,Frontiers in Behavioral Neuroscience
+425,Frontiers in Brain Imaging Methods
+426,Frontiers in Cellular Neuroscience
+427,Frontiers in Cognition
+428,Frontiers in Cognitive Science
+429,Frontiers in Decision Neuroscience
+430,Frontiers in Developmental Psychology
+431,Frontiers in Electrophysiology
+432,Frontiers in Endocrinology
+433,Frontiers in Genetics
+434,Frontiers in Human Neuroscience
+435,Frontiers in Immunological Memory
+436,Frontiers in Inflammation
+437,Frontiers in Invertebrate Physiology
+438,Frontiers in Molecular Neuroscience
+439,Frontiers in Schizophrenia
+440,Frontiers in Systems Neuroscience
+441,Frontiers in Integrative Neuroscience
+442,Frontiers in Perception Science
+443,Frontiers in Consciousness Research
+444,Frontiers in Immunology
+445,Frontiers in Neural Circuits
+446,Frontiers in Neurorobotics
+447,Frontiers in T Cell Biology
+448,Future Neurology
+449,Future Virology
+450,Future Microbiology
+451,Future Medicinal Chemistry
+452,International Journal of Rheumatology
+453,JOURNAL OF ALLERGY
+454,Journal of Parasitology Research
+455,OXIDATIVE MEDICINE & CELLULAR LONGEVITY
+456,Methods in Molecular Biology
+457,Oncotarget
+458,Molecular Membrane Biology
+459,Expert Reviews in Anti-infective Chemotherapy
+460,Nanotechnology
+461,Int J Tuberc Lung Dis
+462,International Journal of Tuberculosis  and Lung Disease
+463,Acta Crystallogr D Biol Crystallogr
+464,Acta Crystallogr Sect F Struct Biol Cryst Commun
+465,J Synchrotron Radiat.
+466,Journal of Applied Crystallography
+467,Physics in Biology and Medicine
+468,Journal of Alzheimer Disease
+469,Theranostics
+470,J Med Internet Research
+471,American Journal of Medical Genetics
+472,Genetic Epidemiology
+473,The Journal of Pathology
+474,European Journal of Immunology
+475,Journal of Depression & Anxiety
+476,Journal of Pathology
+477,Clinical and Experimental Allergy
+478,EMBO Molecular Medicine
+479,Biopolymers
+480,Development Science
+481,Journal of Medical Virology
+482,Molecular Microbiology
+483,"Population, Space and Place"
+484,Traffic
+485,Tropical Medicine and International Health
+486,The Journal of Physiology
+487,Heptology
+488,Bulletin of the History of Medicine
+489,National Academy of Sciences
+490,Journal of Visualized Experiments
+491,Journal of Neurology & Translational Neuroscience
+492,Nephron Physiology
+493,Neurodegenerative Diseases
+494,Neuroepidemiology
+495,Neuropsychobiology
+496,Respiration
+497,Autophagy
+498,Cell Adhesion and Migration
+499,Cell Cycle
+500,Channels
+501,Epigenetics
+502,Epigentics
+503,RNA Biology
+504,RNA biology
+505,Neurology
+506,Mycoses and Modernity
+507,Antioxidants & Redox Signaling
+508,Antioxidants and Redox Signaling
+509,Tissue Engineering: part A
+510,Stem Cells and Development
+511,International journal of molecular sciences
+512,JERPH
+513,Sensors
+514,Journal of Cognitive Neuroscience
+515,The Journal of Cognitive Neuroscience
+516,Journal of Visualized Experiements
+517,Journal of Visulaized expermiments
+518,PNAS (Proceedings of the National Academy of Sciences of the United States of America
+519,Proceddings of the National Academy of Sciences of USA
+520,Proceedings of the National Academy of Sciences of the United States of America
+521,Biosocieties
+522,British Journal of Cancer
+523,Cell Death & Disease
+524,Cell Death and Differentiation
+525,Cell Death and Disease
+526,Frontiers
+527,Genetics in Medicine
+528,Journal of Cerebral Blood Flow and Metabolism
+529,Journal of cerebral blood flow and metabolism
+530,Journal of Investigative Dermatology
+531,Mucosal Immunology
+532,Nature Communications
+533,Nature communications
+534,Sci Rep
+535,EMBO Reports
+536,European Journal of Human Genetics
+537,Leukemia
+538,Nature Neuroscience
+539,Cell Death Differentiation
+540,EMBO J
+541,EMBO Journal
+542,EMBO reports
+543,International Journal of Obesity
+544,Kidney International
+545,Nature Scientific Reports
+546,Neuropsychopharmacology
+547,Oncogene
+548,The EMBO journal
+549,The EMBO Journal
+550,The Journal of investigative dermatology
+551,Translational Psychiatry
+552,NATURE COMMUNICATIONS
+553,Optics Express
+554,Alcohol and Alcoholism
+555,American Jnl Epidemiology
+556,American Journal of Epidemiology
+557,Brain
+558,Briefings in Bioinformatics
+559,British Medical Bulletin
+560,Cerebral Cortex
+561,Clinical Infectious Diseases
+562,Clinical Infectious Diseases Online
+563,European Heart Journal Online
+564,Health Policy Planning
+565,Human Molecular Genetics
+566,Int J Epidemiol
+567,International Joural of Epidemiology
+568,International Journal of Epidemiology
+569,Journal of Antimicrobial Chemotherapy
+570,Journal of Infectious Diseases
+571,Journal of the National Cancer Institute
+572,Nucleic Acids Research
+573,Public Health Ethics
+574,Rheumatology
+575,Schizophrenia Bulletin
+576,Social Cognitive and Affective Neuroscience
+577,Cardiovascular Research
+578,Clinicla Infectious Disease
+579,Glycobiology
+580,Inyernational Journal of Epidemiology
+581,Journal of Gerontology Series A: Medical Sciences
+582,Journal of Public Health
+583,Molecular Biology and Evolution
+584,Nicotine and Tobaco Research
+585,Social History of Medicine
+586,Bioinformatics Online
+587,Cerebral Cortex print
+588,Human Mol Genetics Online
+589,Age and Ageing
+590,Biinformatics
+591,Bioinformatics
+592,Brain Online
+593,Briefings in Functional Genomics
+594,Cerebral Cortex Online
+595,Database
+596,European Journal of Public Health
+597,Health Promotion International
+598,History Workshop Journal
+599,Human molecular genetics
+600,Human Molecular Genetics Online
+601,Human Reproduction
+602,International Immunology
+603,Medical Law Review
+604,Mol Biol and Evolution
+605,Nephrology Dialysis and Transplantation
+606,Nephrology Dialysis Transplantation
+607,Nucleic Acid Research
+608,NUCLEIC ACIDS RESEARCH
+609,Health Policy Plan
+610,Age Aging
+611,"Protein Engineering, Design and Selection ("
+612,QJM
+613,The Journal of Infectious Diseases
+614,J Infect Dis
+615,BioSocieties
+616,Environment and Planning A
+617,PLOS Computational Biology
+618,PLoS Genetics
+619,Plos Genetics
+620,PLOS NTD
+621,PLoS ONE
+622,PloS One
+623,PLoS One
+624,PLOS One
+625,Plos One
+626,PLOS Pathogens
+627,PLOS Genetics
+628,PLOS ONE
+629,PNAS USA
+630,Proceedings of the National Academy of Sciences of the USA
+631,Proc Natl Acad Sci U S A.
+632,Proceedings of the national Academy of Sciences
+633,Journal of Poverty and Social Justice
+634,ASN Neuro
+635,Biochemical Journal
+636,Biochemical Journals
+637,Biochemical Society Transactions
+638,Essays in Biochemistry
+639,The Biochemical Journal
+640,BIOCHEM SOC TRANS
+641,Bioscience Reports
+642,Proceedings of the National Academy of Sciences (PNAS)
+643,Biology
+644,Computational Biology
+645,PLoS Negl Trop Dis
+646,PLOS
+647,Plos
+648,PLoS
+649,PLOS  Computational Biology
+650,PLOS  ONE
+651,PLoS 1
+652,PLoS Biology
+653,PLoS Computational Biology
+654,PLOS COMPUTATIONAL BIOLOGY
+655,PLoS GENETICS
+656,PLoS Medicine
+657,PLoS Medicine Journal
+658,PLoS Negected Tropical Diseases
+659,PLoS Neglected Tropical Diseases
+660,PLOS Neglected Tropical Diseases
+661,Plos ONE
+662,Plos one
+663,PloS ONE
+664,PLoS Pathogens
+665,Plos Pathogens
+666,PLoSONE
+667,PLosONE
+668,Public Library of Science
+669,Public Library of Science ONE
+670,Public Service Review
+671,J Cardiovasc Magn Reson
+672,British Journal of Psychiatry
+673,Britsh Journal of Psychiatry
+674,The British Journal of Psychiatry
+675,Biology Letters
+676,Interface
+677,Journal of the Royal Society Interface
+678,"Journal of the Royal Society, Interface"
+679,Philos Trans R Soc London B Biol Sci
+680,Philosophical Transactions B
+681,Proc Biol Sci
+682,Proceedings of the Royal Society B: Biological Sciences
+683,Chemical Communication
+684,Chemical Society Reviews
+685,Dalton Transactions
+686,Photochemical & Photobiological Sciences
+687,Organic & Biomolecular Chemistry
+688,Chronic Illness
+689,European Journal of Preventive Cardiology
+690,"Health: An Interdisciplinary Journal for the Social Study of Health, Illness and Medicine"
+691,History of the Human Sciences
+692,Journal of Histochemistry & Cytochemistry
+693,Neuroscientist
+694,Psychological Science
+695,Social Studies of Science
+696,Journal of Psychopharmacology
+697,Reproductive Sciences
+698,Journal of the Royal Society of Medicine Short Reports
+699,European History Quarterly
+700,Qualitative Research
+701,International Journal of Financial Research
+702,Journal of Biomedical Graphics and Computing
+703,Health
+704,American Journal of Tropical Medicine & Hygiene
+705,Endocrine Related Cancer
+706,Journal of General Virology
+707,Journal of Microbiology
+708,Microbiology
+709,SGM Open Option
+710,The Journal of Neuroscience
+711,Acta Derm Venereol
+712,Acta Diabetologica
+713,Acta Neuropathol
+714,Acta Neuropathologica
+715,Advances in Experimental Medicine and Biology
+716,Anal Bioanal Chem.
+717,Biogerontology
+718,Biomedical Microdevices
+719,Brain Structure and Function
+720,Brain Topography
+721,Calcified Tissue International
+722,Cell and Tissue Research
+723,Cellular and Molecular Cell Sciences
+724,Cellular and Molecular Life Sciences
+725,Chromosome Research
+726,Cognitive Processing
+727,Cognitive Therapy and Research
+728,Current Atherosclerosis Reports
+729,Current Obstetrics and Gynecology Reports
+730,Development Genes and Evolution
+731,Diabetologia
+732,European Child and Adolescent Psychiatry
+733,European Child and Adolescent Psychiatty
+734,European Journal of Clinical Pharmacology
+735,European Journal of Epidemiology
+736,European Radiology
+737,Experimental Brain Research
+738,Hernia
+739,Immunogenetics
+740,Inflammation Research
+741,Journal of Autism and Development Disorders
+742,Journal of Autism and Developmental Disorders
+743,Journal of Bioethical Inquiry
+744,Journal of Biological Physics
+745,Journal of Computational Neuroscience
+746,Journal of Inherited Metabolic
+747,Journal of Molecular Neuroscience
+748,Journal of Neurology
+749,Journal of the Association for Research in Otolaryngology
+750,Mammalian Genome
+751,Metabolomics
+752,Molecular and Cellular Biochemistry
+753,Neurogenetics
+754,Neuroinformatics
+755,Neuromolecular Medicine
+756,Osteoporosis International
+757,Pflugers Archiv
+758,Pflugers Archive
+759,Psychopharmacology
+760,Reproductive Medicine and Biology
+761,Seminars in Immunopathology
+762,Social Psychiatry & Psychiatric Epidemiology
+763,Social Psychiatry and Psychiatric Epidemiol
+764,Social Psychiatry and Psychiatric Epidemiology
+765,The Journal of Abnormal Child Psychology and Psychiatry
+766,Tropical Animal Health & Production
+767,Urolithiasis
+768,AIDS Behav
+769,Open Choice
+770,Reprod Biol Endocrinol
+771,Journal of Bioenergetics and Biomembranes
+772,Childs Nerv Syst
+773,Age
+774,Biomolecular NMR Assignments
+775,Journal of Molecular Medicine
+776,Journal of Neural Transmission
+777,Journal of The American Society for Mass Spectrometry
+778,AGE
+779,Azania: Archaeological Research in Africa
+780,AIDS Care
+781,Aids Care
+782,Annals of Science
+783,Canadian Journal of African Studies
+784,Child Neuropsychology
+785,Engl Stud (Amst)
+786,Eur J Engl Stud
+787,Journal of Cultural Economy
+788,Medical Anthropology
+789,Science as Culture
+790,Am J Bioeth
+791,Ethn Health
+792,American Journal of Bioethics--Neuroscience
+793,South Asian History and Culture
+794,The History of the Family
+795,Journal of Experimental Nanoscience
+796,J Med Chem.
+797,Journal of Applied Physiology
+798,Molecular & Cellular Proteomics
+799,Pediatrics
+800,BIOL OPEN
+801,Journal of Clinical Endocrinology
+802,Journal od Clinical Endocrinology
+803,The Journal of Visualized Experiments
+804,Br J Psychiatry
+805,Philos Trans R Soc Lond B Biol Sci
+806,Cancer Research
+807,Science-Research
+808,Am J Trop Med Hyg
+809,Developing World Bioethics
+810,International Journal of Developmental Biology
+811,Acta Physiol
+812,Addiction
+813,Aging Cell
+814,Alimentrary Pharmacology & Therapeutics
+815,American Ethnologist
+816,American Journal of Medical Genetics Part A
+817,Angewande Chemie
+818,Angewandte Chemie
+819,Annals of Human Genetics
+820,Annals of Neurology
+821,Annals of the New York Academy of Sciences
+822,Arthritis & Rheumatism
+823,Arthritis and Rheumatism
+824,Bioethics
+825,Birth Defects Research Part A: Clinical and Molecular Teratology
+826,British Journal of Clinical Pharmacology
+827,British Journal of Dermatology
+828,British Journal of Haematology
+829,British Journal of Pharmacology
+830,ChemBioChem
+831,Chemistry -  European Journal
+832,Child Psychology Psychiatry
+833,Clinical Genetics
+834,Cytoskeleton
+835,Development Dynamics
+836,Developmental Science
+837,Diabetic Medicine
+838,Ecology and Evolution
+839,Ecology Letters
+840,Epilepsia
+841,European Journal of Neuroscience
+842,Evolution
+843,Experimental Physiology
+844,FEBS J.
+845,FEBS Journal
+846,FEMS Microbiology Letters
+847,Genes Brain Behaviour
+848,genesis: Journal of Genetics
+849,Glia
+850,HBM JNL Human Brain Mapping
+851,Hepatology
+852,Hippocampus
+853,Human Brain Mapping
+854,Human Mutation
+855,"Human Mutation: Variation, Informatics, and Disease"
+856,Immunological Reviews
+857,Inflammatory Bowel Diseases
+858,International Journal of Geriatric Psychiatry
+859,International Journal of Stroke
+860,Journal of Bone and Mineral Research
+861,Journal of Cellular Biochemistry
+862,Journal of Child Psychology and Psychiatry
+863,Journal of Evolutionary Biology
+864,Journal of Neurochemistry
+865,Journal of Neuroendocrinology
+866,Journal of the History of the Behavioral Sciences
+867,Journal of the Royal Statistical Society: Series C (Applied Statistics)
+868,Magnetic Resonance in Medicine
+869,Movement Disorders
+870,Muscle and Nerve
+871,Neuropathology and Applied Neurobiology
+872,NMR in Biomedicine
+873,Parasite Immunology
+874,Plant Biotechnology Journal
+875,Protein Science
+876,Rapid Communications in Mass Spectrometry
+877,Sociology of Health & Illness
+878,Stem Cells
+879,The FEBS Journal
+880,Brt Jnl Clinical Pharmacology
+881,"Child: Care, Health Development"
+882,Drug and Alcohol Review
+883,Evolutionary Applications
+884,Molecular Genetics & Genomic Medicine
+885,Maternal and Child Nutrition
+886,Evaluation in Clinical Practice
+887,JOURNAL OF NEUROCHEMISTRY
+888,Journal of Cell Physiology
+889,Journal of Internal Medicine
+890,Journal of Sleep Research
+891,"CHILD: Care, Heath & Development"
+892,Dev World Bioeth.
+893,Dev. World Bioeth
+894,Eur J Immunol
+895,Influenza Other Respi Viruses.
+896,Marten Child Nutr
+897,Trop Med Int Health
+898,Clinical Transcriptional Science
+899,Immunology
+900,Acta Opthalmologica
+901,American Journal of Transplantation
+902,Angewandte Chemie International Edition
+903,British Jounal of Pharmacology
+904,British journal of Clinical Pharmacology
+905,Centaurus
+906,Criminal Behavior and Mental Health
+907,Depression and Anxiety
+908,Dermatologic Surgery
+909,Economic History Review
+910,Genetic Epidemology
+911,Journal of the International Hepato Pancreato Biliary Association
+912,International Journal of Experimental Pathology
+913,Journal of Comparative Neurology
+914,Journal of Evaluation in Clinical Practice
+915,Journal of Microscopy
+916,Journal of Orthopedic Research
+917,Journal of Viral Hepatitis
+918,Molecular Biology
+919,Obesity Reviews
+920,Statistics in Medicine
+921,Synapse
+922,The European Journal of Neuroscience
+923,Zoonoses and Public Health
+924,Angew chems Int Ed
+925,CHEMBIOCHEM
+926,Chemmedchem
+927,ChemMedChem
+928,Protemics
+929,Journal of Small Animal Practice
+930,AIDS
+931,AIDS Journal
+932,AIDS UK
+933,JAIDS Journal of Acquired Immune Deficiency Syndromes
+934,Journal of Acquired Immune Deficiency Syndroms (JAIDS)
+935,Journal of Aids
+936,Circulation Research
+937,Pediatr Infect Dis J
+938,Journal of Acquired Immune Deficiency Syndromes
