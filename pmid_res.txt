@@ -1,0 +1,60 @@
+indx,pmid,abbr
+1378,24048963,J Infect Dis
+1376,22301630,J Infect Dis
+1374,23945372,J Infect Dis
+1370,23493728,J Infect Dis
+1336,23884064,Clin Infect Dis
+1496,23658422,Bioinformatics
+1271,23328632,Cell Death Differ
+722,23932517,Curr Opin Microbiol
+568,2766312,Caries Res
+440,24285889,J Neurosci 
+428,23739958,J Neurosci
+1077,23847615,Front Immunol
+634,23907068,Am J Geriatr Psychiatry
+608,23341602,Proc Natl Acad Sci U S A
+604,23650371,Proc Natl Acad Sci U S A
+602,23319650,Proc Natl Acad Sci U S A
+598,23213245,Proc Natl Acad Sci U S A
+1911,23023652,Photochem Photobiol Sci
+1866,23166732,PLoS One
+1784,23527131,PLoS One
+1783,24147036,PLoS One
+1898,23282992,Proc Biol Sci 
+1976,23052214,Cell Mol Life Sci
+2095,21624095,Acta Physiol
+1782,23844111,PLoS One
+2044,22897899,Reprod Biol Endocrinol
+2037,22618994,Acta Neuropathol
+1781,23239765,Health
+1517,23328711,Nephrol Dial Transplant
+1516,22735079,Mol Biol Evol
+1492,23162054,Bioinformatics
+1490,23396536,Hum Mol Genet
+2097,23734913,Addiction
+2286,22364555,Trop Med Int Health
+2320,23670821,Eur Spine J
+2179,22807091,Hepatology
+2178,23775568,Hepatology
+2173,21255266,Genes Brain Behav
+2172,23738518,Genes Brain Behav
+729,22155499,Brain Behav Immun
+730,20800751,Behav Res Ther
+732,23620154,Pathog Dis
+731,24064150,J Pediatr
+775,23137753,Int J Parasitol
+735,23541370,Lancet
+734,21680110,Drug Alcohol Depend
+733,22591621,Health Place
+208,23589301,J Biol Chem
+414,23709760,Thorax
+1231,23703681,Genet Med
+221,22738332,J Neuroinflammation
+2296,22961729,Angew Chem Int Ed Engl
+2295,22730171,Angew Chem Int Ed Engl
+2294,21472932,Angew Chem Int Ed Engl
+806,23642644,J Cyst Fibros
+1099,22993091,Acta Crystallogr D Biol Crystallogr
+1525,23981980,Age Ageing
+1489,22345357,Cereb Cortex
+617,2294692,Am J Clin Pathol

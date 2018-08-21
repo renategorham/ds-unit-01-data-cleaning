@@ -12,7 +12,8 @@ welcome_titles_df = pd.read_csv('./welcome-titles-to-match.csv', names=['title']
 pubmed_titles = pd.read_csv('./pubmed-titles.txt', delimiter=';', header=None, names=['abbreviation', 'title'])
 
 for i in welcome_titles_df.title:
-    data = similarities(i, pubmed_titles.title)
-    abbr = pubmed_titles.loc[pubmed_titles['title'] == similarities(i, pubmed_titles.title)[0], 'abbreviation']
+    data = similarities(i, pubmed_titles.abbreviation)
+    abbr = pubmed_titles.loc[pubmed_titles['abbreviation'] == similarities(i, pubmed_titles.abbreviation)[0], 'abbreviation']
     abbr = list(abbr)
     print(i, ',', data, ',', abbr)
+

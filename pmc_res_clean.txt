@@ -1,0 +1,126 @@
+indx,pmcid,abbr
+1380,3749005,J Infect Dis
+1382,3583273,J Infect Dis
+1338,3381638,Clin Infect Dis
+1334,3540040,Clin Infect Dis
+1284,3604800,Sci Rep
+1482,3635503,Soc Hist Med
+1484,3481955,Soc Hist Med
+1752,3606973,Proc Natl Acad Sci U S A
+2335,3707567,J Acquir Immune Defic Syndr
+1512,3600839,Hum Reprod
+1495,3476336,Bioinformatics
+1494,3570213,Bioinformatics
+1184,3547901,Cell Adh Migr
+420,3676539,J Neurosci
+422,3426678,Appl Environ Microbiol
+805,3793856,J Clin Virol
+982,3627205,Lancet
+980,3525981,Lancet
+578,3529010,Proc Natl Acad Sci U S A
+576,3479458,Proc Natl Acad Sci U S A
+574,3670340,Proc Natl Acad Sci U S A
+572,3704016,Proc Natl Acad Sci U S A
+570,3511132,Proc Natl Acad Sci U S A
+438,3586675,J Neurosci
+430,3655688,J Neurosci
+426,3724995,J Neurosci
+580,3479523,Proc Natl Acad Sci U S A
+582,3538261,Proc Natl Acad Sci U S A
+586,3666720,Proc Natl Acad Sci U S A
+611,3738233,J Nutr
+610,3607403,J Immunol
+600,3503170,Proc Natl Acad Sci U S A
+594,3746881,Proc Natl Acad Sci U S A
+592,3752214,Proc Natl Acad Sci U S A
+590,3587277,Proc Natl Acad Sci U S A
+584,3557024,Proc Natl Acad Sci U S A
+1929,3682634,Reprod Sci
+1923,3524560,J Histochem Cytochem
+1908,3785133,Chem Commun
+1867,3388079,PLoS One
+1863,3712914,PLoS Med
+1809,3692470,PLoS Med
+1961,3549237,Acta Neuropathol
+2084,3613719,Br J Psychiatry
+1320,3501977,Brain
+1319,3634199,Brain
+1318,3159156,Brain
+1316,3692042,Brain
+1312,3754462,Brain
+1310,3692041,Brain
+1309,3673465,Brain
+1308,3673458,Brain
+1767,3526116,Biochem J
+1488,3496338,Bioinformatics
+1487,3546802,Bioinformatics
+1486,3413389,Bioinformatics
+2104,3749465,Angew Chem Int Ed Engl
+2266,3853540,Br J Clin Pharmacol
+2287,3465775,Clin Transl Sci
+2330,3819359,J Acquir Immune Defic Syndr
+2146,3638371,Cytoskeleton
+1307,3286332,Brain
+1303,3639724,Am J Epidemiol
+660,3793867,Biochim Biophys Acta
+560,3644702,Cell Rep
+774,3438445,Infect Genet Evol
+913,3562439,Neuropsychologia
+202,3734580,Mol Cell Proteomics
+198,3597819,J Biol Chem
+494,3687256,Learn Mem
+493,3533127,Learn Mem
+1160,362781,Trop Med Int Health
+1159,3770928,Trop Med Int Health
+1157,3558801,Trop Med Int Health
+1155,3717178,Trop Med Int Health
+1241,3465389,Proc Natl Acad Sci U S A
+1208,3571806,Sensors
+965,526787,Structure
+1129,3563216,Clin Exp Allergy
+1018,3763376,Structure
+1000,3759846,Tuberculosis 
+970,3694306,Structure
+969,3664939,Structure
+968,3651934,Structure
+967,3542428,Structure
+1049,3677134,Front Neurosci
+1100,3087623,Acta Crystallogr D Biol Crystallogr
+1073,3715722,Front Psychol
+1072,3557415,Front Psychol
+1069,3676342,PLoS One
+1046,3689257,Front Psychol
+1067,3564010,Front Physio
+1065,3502006,Front Immunol
+1056,3759789,Front Psychol
+1053,3644713,Front Psychol
+1050,3521128,Front Neurosci
+1066,3444764,Front Immunol
+1893,3679597,Philos Trans R Soc Lond B Biol Sci
+1894,3758187,Philos Trans R Soc Lond B Biol Sc
+1956,3492749,Microbiology
+2041,3627851,AIDS Behav
+2043,3778840,Arch Womens Ment Health
+2147,3698701,Dev Dyn
+2331,3773237,AIDS
+2332,3815011,AIDS
+1101,3374517,Acta Crystallogr Sect F Struct Biol Cryst Commun
+1110,3510731,J Med Internet Res
+1749,3612675,Proc Natl Acad Sci U S A.
+1550,3493395,PLoS Negl Trop Dis
+1530,3475639,J Infect Dis
+1505,3673173,Cereb Cortex
+1499,3170535,Brain
+1497,3580272,Brain
+1481,3819976,Nicotine Tob Re
+2305,3731578,HPB
+612,3549118,Proc Natl Acad Sci U S A
+613,3606975,Proc Natl Acad Sci U S A
+614,3612627,Proc Natl Acad Sci U S A
+615,3491471,Proc Natl Acad Sci U S A
+616,3529030,Proc Natl Acad Sci U S A
+1864,3749971,PLoS Negl Trop Dis
+1865,3460945,PLoS One
+1207,3717731,Int J Environ Res Public Health
+1162,3427885,Hepatology
+352,3686250,Br J Ophthalmol

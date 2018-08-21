@@ -1,0 +1,2 @@
+plos 1 = PLos One
+PNAS  = Proc Nat Acad SCi
